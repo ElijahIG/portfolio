@@ -7,3 +7,5 @@ This is my Web development portfolio with my contact information and images and 
 https://elijahig.github.io/portfolio/
 
 # Screenshot of the application
+
+![Portfolio](assets/images/Capture.PNG)
