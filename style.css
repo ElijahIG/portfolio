@@ -1,22 +1,11 @@
-#aboutme {
+body {
+  background-color: #41b3a3;
 }
 
-@media (min-width: 992px) {
-  #aboutme {
-    max-width: 40%;
-  }
+#aboutme {
+  color: white;
 }
-@media (min-width: 1200px) {
-  #aboutme {
-    max-width: 40%;
-  }
+
+#resume {
+  color: white;
 }
-@media (min-width: 1400px) {
-  #aboutme {
-    max-width: 40%;
-  }
-}
-footer {
-  background: #222222;
-}
-© 2021 GitHub, Inc.
