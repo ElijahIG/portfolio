@@ -8,4 +8,6 @@ https://elijahig.github.io/portfolio/
 
 # Screenshot of the application
 
-![Portfolio](assets/images/Capture.PNG)
+![Contact](asset/images/Contact.PNG)
+
+![Portfolio](asset/images/Projects.PNG)
